@@ -6,11 +6,12 @@
 ---
 
 ## 💡 About Me
-🎓 Computer Science student at **Sharad Institute of Technology, Yadrav**  
-🌱 Learning `Java`, `Spring Boot`, `React`, and improving DSA  
-💡 I love building responsive full-stack web applications  
-⚡ Currently focused on building real-world projects and mastering backend development  
-🎯 Goal: Become a professional developer contributing to meaningful products  
+
+🎓 I'm a Computer Science and Engineering student at **Sharad Institute of Technology, Yadrav**  
+🔥 Learning full-stack development with **Java, Spring Boot, React**  
+💪 Passionate about building real-world applications and solving problems  
+📈 Currently improving DSA and backend skills for industry-level development  
+🎯 Future goal: Become a software developer at a top product-based company  
 
 ---
 
@@ -24,10 +25,10 @@
 
 ## 🧠 Currently Working On
 
-- Full Stack Projects using **Spring Boot + React**
-- DSA Practice on **LeetCode**
-- Building GitHub profile and portfolio
-- Preparing for internships & placements
+- 🔨 Spring Boot & React Projects
+- 📘 DSA Practice on LeetCode
+- 🖼️ Portfolio Website
+- 🧪 Improving System Design & API Building
 
 ---
 
@@ -39,7 +40,6 @@
   </a>
 </p>
 
-<!-- Optional: LeetCode stats card from third-party (if username is public) -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo+Bhai&ext=contest" />
 </p>
@@ -59,6 +59,32 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivampisal&theme=react-dark" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivampisal&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📘 My Learning Journey
+
+- 📌 Jan 2024 – Started Java full-stack course  
+- 📌 Mar 2024 – Built my first Spring Boot project  
+- 📌 Apr 2024 – Completed frontend projects using HTML, CSS, JS  
+- 📌 Jun 2024 – Started working with React  
+- 📌 Jul 2024 – Building full-stack web apps and solving DSA on LeetCode  
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -75,7 +101,6 @@
 
 ---
 
-## 🎯 Fun Fact
+## 💬 Fun Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.” 😄
-
