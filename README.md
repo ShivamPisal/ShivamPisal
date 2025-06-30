@@ -87,11 +87,12 @@
 ## 💬 Fun Quote
 
 <p align="center">
-  <img src="https://i.imgur.com/XOIVpWn.png" width="400" alt="Energy Saving Mode Meme" />
+  <img src="https://media.tenor.com/images/4980dc9781d9ae7d90cb3335fbb2841f/tenor.gif" width="400" alt="Energy Saving Mode Meme" />
 </p>
 
 <p align="center">
-  <b><i>"I’m not lazy. I’m just on energy-saving mode."</i></b> ⚡😴
+  <b><i>"I’m not lazy. I’m just on energy‑saving mode." ⚡😴</i></b>
 </p>
+
 
 
