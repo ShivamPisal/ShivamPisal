@@ -84,4 +84,11 @@
 
 ## 💬 Fun Quote
 
-> “Code is like humor. When you have to explain it, it’s bad.” 😄
+<p align="center">
+  <img src="https://i.imgur.com/uwDCfng.jpeg" width="400" alt="Energy Saving Mode Meme" />
+</p>
+
+<p align="center">
+  <b><i>"I’m not lazy. I’m just on energy-saving mode."</i></b> ⚡😴
+</p>
+
