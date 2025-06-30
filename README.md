@@ -35,13 +35,13 @@
 ## 🏆 LeetCode Activity
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/shivampisal00/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo+Bhai&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/shivampisal00?theme=dark&font=Baloo+Bhai&ext=contest" />
 </p>
 
 ---
@@ -64,24 +64,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivampisal&theme=react-dark" />
 </p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivampisal&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📘 My Learning Journey
-
-- 📌 Jan 2024 – Started Java full-stack course  
-- 📌 Mar 2024 – Built my first Spring Boot project  
-- 📌 Apr 2024 – Completed frontend projects using HTML, CSS, JS  
-- 📌 Jun 2024 – Started working with React  
-- 📌 Jul 2024 – Building full-stack web apps and solving DSA on LeetCode  
 
 ---
 
