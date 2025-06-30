@@ -59,29 +59,28 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivampisal&theme=react-dark" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shivampisal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
+
 
 ## 💬 Fun Quote
 
