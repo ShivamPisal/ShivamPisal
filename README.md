@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">👋 Hello, I'm Shivam Pisal!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -41,8 +39,8 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-pisal/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shivampisal00/)
 
 ---
 
