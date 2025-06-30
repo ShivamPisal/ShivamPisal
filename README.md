@@ -1,13 +1,8 @@
 <h1 align="center">👋 Hello, I'm Shivam Pisal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FFFF&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer" alt="Line 1" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF61A6&pause=1000&center=true&vCenter=true&width=435&lines=Spring+Boot+%7C+React" alt="Line 2" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFA500&pause=1000&center=true&vCenter=true&width=435&lines=Problem+Solver+%26+Tech+Explorer" alt="Line 3" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF00&pause=1000&center=true&vCenter=true&width=435&lines=Building+and+Improving+Every+Day" alt="Line 4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React;Problem+Solver+%26+Tech+Explorer;Building+and+Improving+Every+Day" alt="Typing SVG" />
 </p>
+
 
 
 ---
