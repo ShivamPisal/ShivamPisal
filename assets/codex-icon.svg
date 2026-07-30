@@ -1,0 +1,9 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Codex</title>
+  <rect width="48" height="48" rx="10" fill="#070A1A"/>
+  <rect x="1" y="1" width="46" height="46" rx="9" stroke="#38BDF8" stroke-opacity="0.22"/>
+  <path d="M20 15L11 24L20 33" stroke="#38BDF8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 15L37 24L28 33" stroke="#818CF8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M27 11L21 37" stroke="#FB7185" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="24" cy="24" r="18" stroke="#F8FAFC" stroke-opacity="0.08"/>
+</svg>

@@ -41,9 +41,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,aws,git,github,vscode,postman,linux&perline=8" alt="Tech stack icons" />
   <br />
-  <img src="https://img.shields.io/badge/Codex-070A1A?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="Codex" />
-  <img src="https://img.shields.io/badge/Cursor-11143A?style=for-the-badge&logo=cursor&logoColor=818CF8" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude_Code-2A1238?style=for-the-badge&logo=anthropic&logoColor=FB7185" alt="Claude Code" />
+  <img src="assets/codex-icon.svg" width="48" height="48" alt="Codex" />
+  <img src="assets/cursor-icon.svg" width="48" height="48" alt="Cursor" />
+  <img src="assets/claude-code-icon.svg" width="48" height="48" alt="Claude Code" />
 </p>
 
 <table>
