@@ -1,6 +1,6 @@
 <svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Shivam Pisal profile banner</title>
-  <desc id="desc">Modern GitHub profile banner for Shivam Pisal, Full Stack Java Developer.</desc>
+  <desc id="desc">Modern GitHub profile banner for Shivam Pisal, Software Engineer and Full Stack Developer.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#050816"/>
@@ -41,17 +41,17 @@
     <path d="M103 46 L126 74 L103 102" stroke="#36F2A6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M85 34 L63 114" stroke="#FFB703" stroke-width="10" stroke-linecap="round"/>
   </g>
-  <text x="430" y="155" fill="#B9FFF5" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="5">FULL STACK JAVA DEVELOPER</text>
+  <text x="430" y="155" fill="#B9FFF5" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="5">SOFTWARE ENGINEER | FULL STACK DEVELOPER</text>
   <text x="426" y="232" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="900">Shivam Pisal</text>
-  <text x="430" y="286" fill="#D8EAF2" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="600">Java | Spring Boot | React | MySQL | AWS | DSA</text>
-  <text x="430" y="328" fill="#AFC8D7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">Building backend-focused full-stack applications and preparing for product engineering roles.</text>
+  <text x="430" y="286" fill="#D8EAF2" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="600">Java | Spring Boot | React | MySQL | AWS Serverless</text>
+  <text x="430" y="328" fill="#AFC8D7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">Building full-stack web applications, REST APIs, and cloud-native serverless systems.</text>
   <g transform="translate(430 362)" fill="none" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">
     <rect x="0" y="0" width="142" height="42" rx="21" fill="#00E5FF" fill-opacity="0.12" stroke="#00E5FF" stroke-opacity="0.55"/>
     <text x="23" y="27" fill="#B9FFF5">REST APIs</text>
     <rect x="162" y="0" width="166" height="42" rx="21" fill="#36F2A6" fill-opacity="0.12" stroke="#36F2A6" stroke-opacity="0.55"/>
     <text x="185" y="27" fill="#D6FFE8">Problem Solver</text>
-    <rect x="348" y="0" width="150" height="42" rx="21" fill="#FFB703" fill-opacity="0.12" stroke="#FFB703" stroke-opacity="0.55"/>
-    <text x="371" y="27" fill="#FFE5A3">AWS Learner</text>
+    <rect x="348" y="0" width="168" height="42" rx="21" fill="#FFB703" fill-opacity="0.12" stroke="#FFB703" stroke-opacity="0.55"/>
+    <text x="371" y="27" fill="#FFE5A3">AWS Serverless</text>
   </g>
   <g transform="translate(1110 158)" font-family="Consolas, 'Courier New', monospace" font-size="18">
     <rect x="0" y="0" width="250" height="190" rx="22" fill="#06101F" fill-opacity="0.78" stroke="#FFFFFF" stroke-opacity="0.16"/>
