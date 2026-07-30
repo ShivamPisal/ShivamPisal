@@ -40,7 +40,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,aws,git,github,vscode,postman,linux&perline=8" alt="Tech stack icons" />
-  <br />
   <img src="assets/codex-icon.svg" width="48" height="48" alt="Codex" />
   <img src="assets/cursor-icon.svg" width="48" height="48" alt="Cursor" />
   <img src="assets/claude-code-icon.svg" width="48" height="48" alt="Claude Code" />
