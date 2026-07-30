@@ -72,21 +72,36 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white" alt="Amazon Cognito" />
+  <img src="https://img.shields.io/badge/SAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS SAM" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFormation" />
   <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
   <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" alt="AWS IAM" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="AWS Amplify" />
 </p>
 
-```yaml
-focus:
-  backend: Java, Spring Boot, REST APIs, MySQL
-  serverless: AWS Lambda, API Gateway, DynamoDB, Cognito
-  deployment: AWS SAM, CloudFormation, S3, Amplify
-  workflow: Git, Jira, Postman, code reviews, debugging
-  ai_tools: Cursor, Codex, Claude
-```
+<table>
+  <tr>
+    <td><strong>Serverless Backend</strong></td>
+    <td>AWS Lambda, API Gateway, DynamoDB, Cognito</td>
+  </tr>
+  <tr>
+    <td><strong>Deployment & Infra</strong></td>
+    <td>AWS SAM, CloudFormation, S3, Amplify, EC2, IAM</td>
+  </tr>
+  <tr>
+    <td><strong>API Workflow</strong></td>
+    <td>REST API design, Postman testing, debugging, validation, feature enhancements</td>
+  </tr>
+  <tr>
+    <td><strong>Team Workflow</strong></td>
+    <td>Git, Jira, Agile collaboration, code reviews, production-focused improvements</td>
+  </tr>
+</table>
 
 ---
 
