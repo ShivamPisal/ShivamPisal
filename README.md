@@ -28,15 +28,11 @@
 
 ## About Me
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=ShivamPisal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shivam Pisal GitHub stats" />
-
 - Computer Science and Engineering student at **Sharad Institute of Technology, Yadrav**
 - Learning and building with **Java, Spring Boot, React, MySQL, REST APIs, and AWS**
 - Interested in clean backend architecture, practical full-stack apps, and problem solving
 - Improving **DSA**, API design, deployment workflows, and system design fundamentals
 - Career goal: become a strong software developer in a product-based engineering team
-
-<br clear="right" />
 
 ---
 
@@ -95,8 +91,13 @@ focus:
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivamPisal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPisal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" alt="Top languages" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamPisal&theme=tokyonight" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamPisal&theme=tokyonight" alt="Repositories per language" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamPisal&theme=tokyonight" alt="Most committed languages" />
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivamPisal&theme=tokyonight" alt="GitHub summary stats" />
 </p>
 
 <p align="center">
@@ -105,10 +106,6 @@ focus:
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamPisal&theme=tokyo-night&hide_border=true&area=true&custom_title=Shivam%20Pisal%27s%20Contribution%20Graph" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ShivamPisal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub profile trophies" />
 </p>
 
 ---
@@ -158,16 +155,17 @@ focus:
 
 ```mermaid
 timeline
-  title Shivam Pisal - Developer Journey
-  2024 : Java fundamentals : Web development basics : Git and GitHub
-  2025 : Spring Boot : React : MySQL : DSA practice
-  2026 : Working Experience : Full-stack project development : API building : AWS and DevOps learning
-  Future : Product-based software developer : Scalable backend systems : Open-source collaboration
+  title Shivam Pisal - Education and Experience
+  Education : Computer Science and Engineering : Sharad Institute of Technology, Yadrav
+  Education : Java fundamentals : Web development basics : Git and GitHub
+  Education : Spring Boot : React : MySQL : DSA practice
+  Working Experience : Full-stack project development : REST API building : AWS and DevOps learning
+  Future : Software Developer : Product-based engineering : Scalable backend systems
 ```
 
 <!--
-  To add exact work experience, replace the 2026 line above with:
-  2026 : Company Name : Role Name : Java/Spring Boot/React responsibilities
+  To add exact work experience, replace the Working Experience line above with:
+  Working Experience : Company Name : Role Name : Java/Spring Boot/React responsibilities
 -->
 
 ---
