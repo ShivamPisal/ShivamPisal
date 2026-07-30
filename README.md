@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivamPisal&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="Profile visitor counter" />
   <img src="https://img.shields.io/github/followers/ShivamPisal?label=Followers&style=for-the-badge&color=22c55e" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-ffb703?style=for-the-badge" alt="Open to collaborate" />
 </p>
 
 ---
@@ -41,6 +40,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,aws,git,github,vscode,postman,linux&perline=8" alt="Tech stack icons" />
+  <br />
+  <img src="https://img.shields.io/badge/Codex-070A1A?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="Codex" />
+  <img src="https://img.shields.io/badge/Cursor-11143A?style=for-the-badge&logo=cursor&logoColor=818CF8" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude_Code-2A1238?style=for-the-badge&logo=anthropic&logoColor=FB7185" alt="Claude Code" />
 </p>
 
 <table>
@@ -162,25 +165,13 @@
 ## Career Timeline
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"background": "#070A1A", "primaryColor": "#11143A", "primaryTextColor": "#F8FAFC", "primaryBorderColor": "#38BDF8", "lineColor": "#818CF8", "secondaryColor": "#172554", "tertiaryColor": "#2A1238", "fontFamily": "Segoe UI"}}}%%
+%%{init: {"theme": "base", "themeVariables": {"darkMode": true, "background": "#070A1A", "mainBkg": "#11143A", "primaryColor": "#11143A", "primaryTextColor": "#F8FAFC", "primaryBorderColor": "#38BDF8", "lineColor": "#818CF8", "secondaryColor": "#172554", "secondaryBorderColor": "#818CF8", "tertiaryColor": "#2A1238", "tertiaryBorderColor": "#FB7185", "cScale0": "#38BDF8", "cScale1": "#818CF8", "cScale2": "#FB7185", "fontFamily": "Segoe UI"}}}%%
 timeline
   title Education and Experience
   2021 - 2025 : B.Tech CSE : Sharad Institute of Technology College of Engineering, Yadrav
   Dec 2024 - Aug 2025 : Full Stack Development Training : MindScript Tech, Pune
   Sep 2025 - Present : Software Engineer : Cloudtrim Technologies
 ```
-
-## Open to Collaborate
-
-I'm open to collaborating on:
-
-- Java and Spring Boot backend projects
-- React frontend projects
-- Full-stack web applications
-- Beginner-friendly open-source contributions
-- DSA, interview preparation, and project-based learning
-
----
 
 ## Connect With Me
 
