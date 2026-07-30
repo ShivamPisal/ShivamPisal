@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README for Shivam Pisal
-  Tip: keep this repository name exactly the same as your GitHub username: shivampisal
+  Tip: keep this repository name exactly the same as your GitHub username: ShivamPisal
 -->
 
 <p align="center">
@@ -18,14 +18,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-pisal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:shivampisal.866@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/shivampisal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/ShivamPisal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/shivampisal00/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.instagram.com/shivampisal00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivampisal&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="Profile visitor counter" />
-  <img src="https://img.shields.io/github/followers/shivampisal?label=Followers&style=for-the-badge&color=22c55e" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=ShivamPisal&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="Profile visitor counter" />
+  <img src="https://img.shields.io/github/followers/ShivamPisal?label=Followers&style=for-the-badge&color=22c55e" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-ffb703?style=for-the-badge" alt="Open to collaborate" />
 </p>
 
@@ -33,7 +33,7 @@
 
 ## About Me
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=shivampisal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shivam Pisal GitHub stats" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=ShivamPisal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shivam Pisal GitHub stats" />
 
 - Computer Science and Engineering student at **Sharad Institute of Technology, Yadrav**
 - Focused on **Java, Spring Boot, React, MySQL, REST APIs, and AWS fundamentals**
@@ -105,8 +105,8 @@ cloud_focus:
     <td width="50%">
       <h3 align="center">Portfolio Website</h3>
       <p align="center">
-        <a href="https://github.com/shivampisal">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampisal&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio repository card" />
+        <a href="https://github.com/ShivamPisal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamPisal&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio repository card" />
         </a>
       </p>
       <p align="center">React portfolio with modern UI, smooth sections, and project highlights.</p>
@@ -114,8 +114,8 @@ cloud_focus:
     <td width="50%">
       <h3 align="center">Spring Boot API</h3>
       <p align="center">
-        <a href="https://github.com/shivampisal">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampisal&repo=spring-boot-api&theme=tokyonight&hide_border=true" alt="Spring Boot API repository card" />
+        <a href="https://github.com/ShivamPisal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamPisal&repo=spring-boot-api&theme=tokyonight&hide_border=true" alt="Spring Boot API repository card" />
         </a>
       </p>
       <p align="center">REST API project focused on clean endpoints, validation, and database integration.</p>
@@ -125,8 +125,8 @@ cloud_focus:
     <td width="50%">
       <h3 align="center">Full Stack App</h3>
       <p align="center">
-        <a href="https://github.com/shivampisal">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampisal&repo=full-stack-app&theme=tokyonight&hide_border=true" alt="Full stack app repository card" />
+        <a href="https://github.com/ShivamPisal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamPisal&repo=full-stack-app&theme=tokyonight&hide_border=true" alt="Full stack app repository card" />
         </a>
       </p>
       <p align="center">Spring Boot and React application with practical user workflows.</p>
@@ -134,8 +134,8 @@ cloud_focus:
     <td width="50%">
       <h3 align="center">DSA Practice</h3>
       <p align="center">
-        <a href="https://github.com/shivampisal">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampisal&repo=dsa-practice&theme=tokyonight&hide_border=true" alt="DSA practice repository card" />
+        <a href="https://github.com/ShivamPisal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamPisal&repo=dsa-practice&theme=tokyonight&hide_border=true" alt="DSA practice repository card" />
         </a>
       </p>
       <p align="center">Structured Java solutions for arrays, strings, trees, graphs, and dynamic programming.</p>
@@ -148,20 +148,20 @@ cloud_focus:
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shivampisal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampisal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShivamPisal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPisal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivampisal&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=ShivamPisal&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivampisal&theme=tokyo-night&hide_border=true&area=true&custom_title=Shivam%20Pisal%27s%20Contribution%20Graph" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamPisal&theme=tokyo-night&hide_border=true&area=true&custom_title=Shivam%20Pisal%27s%20Contribution%20Graph" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivampisal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShivamPisal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub profile trophies" />
 </p>
 
 ---
@@ -235,9 +235,9 @@ timeline
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivampisal/shivampisal/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivampisal/shivampisal/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shivampisal/shivampisal/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamPisal/ShivamPisal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamPisal/ShivamPisal/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ShivamPisal/ShivamPisal/output/github-snake.svg" />
   </picture>
 </p>
 
