@@ -64,6 +64,10 @@
     <td><strong>Tools</strong></td>
     <td>Git, GitHub, Jira, Postman, VS Code, Cursor, Codex, Claude</td>
   </tr>
+  <tr>
+    <td><strong>AI-Assisted Development</strong></td>
+    <td>Codex, Cursor, Claude Code</td>
+  </tr>
 </table>
 
 ---
@@ -161,9 +165,9 @@
 %%{init: {"theme": "base", "themeVariables": {"background": "#070A1A", "primaryColor": "#11143A", "primaryTextColor": "#F8FAFC", "primaryBorderColor": "#38BDF8", "lineColor": "#818CF8", "secondaryColor": "#172554", "tertiaryColor": "#2A1238", "fontFamily": "Segoe UI"}}}%%
 timeline
   title Education and Experience
-  Education : B.Tech CSE : Sharad Institute of Technology College of Engineering, Yadrav
-  Training : Full Stack Development : MindScript Tech, Pune
-  Experience : Software Engineer : Cloudtrim Technologies
+  2021 - 2025 : B.Tech CSE : Sharad Institute of Technology College of Engineering, Yadrav
+  Dec 2024 - Aug 2025 : Full Stack Development Training : MindScript Tech, Pune
+  Sep 2025 - Present : Software Engineer : Cloudtrim Technologies
 ```
 
 ## Open to Collaborate
