@@ -161,7 +161,7 @@
 ## Career Timeline
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"darkMode": true, "background": "#070A1A", "mainBkg": "#11143A", "primaryColor": "#11143A", "primaryTextColor": "#F8FAFC", "primaryBorderColor": "#38BDF8", "lineColor": "#818CF8", "secondaryColor": "#172554", "secondaryBorderColor": "#818CF8", "tertiaryColor": "#2A1238", "tertiaryBorderColor": "#FB7185", "cScale0": "#38BDF8", "cScale1": "#818CF8", "cScale2": "#FB7185", "fontFamily": "Segoe UI"}}}%%
+%%{init: {"theme": "base", "themeVariables": {"darkMode": true, "background": "#070A1A", "mainBkg": "#11143A", "primaryColor": "#0F172A", "primaryTextColor": "#F8FAFC", "primaryBorderColor": "#38BDF8", "lineColor": "#CBD5E1", "secondaryColor": "#1E1B4B", "secondaryTextColor": "#F8FAFC", "secondaryBorderColor": "#818CF8", "tertiaryColor": "#3B1230", "tertiaryTextColor": "#F8FAFC", "tertiaryBorderColor": "#FB7185", "cScale0": "#0F172A", "cScale1": "#1E1B4B", "cScale2": "#3B1230", "cScaleLabel0": "#F8FAFC", "cScaleLabel1": "#F8FAFC", "cScaleLabel2": "#F8FAFC", "fontFamily": "Segoe UI"}}}%%
 timeline
   title Education and Experience
   2021 - 2025 : B.Tech CSE : Sharad Institute of Technology College of Engineering, Yadrav
