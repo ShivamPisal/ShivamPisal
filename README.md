@@ -158,6 +158,7 @@
 ## Career Timeline
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"background": "#070A1A", "primaryColor": "#11143A", "primaryTextColor": "#F8FAFC", "primaryBorderColor": "#38BDF8", "lineColor": "#818CF8", "secondaryColor": "#172554", "tertiaryColor": "#2A1238", "fontFamily": "Segoe UI"}}}%%
 timeline
   title Education and Experience
   Education : B.Tech CSE : Sharad Institute of Technology College of Engineering, Yadrav
